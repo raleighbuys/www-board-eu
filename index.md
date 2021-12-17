@@ -13,7 +13,7 @@ tags: eu board
  {% for member in site.data.board %}
     <div class="member-container">
         <div class="member-img-container">	
-            <div class="member-img" style="background-image: url(/assets/images/{{ member.image }});">
+            <div class="member-img" style="background-image: url({{ member.image }});">
             </div>
         </div>
         <div class="member-caption"><h2>{{ member.name }}</h2><hr><strong>{{ member.title }}</strong><br/>

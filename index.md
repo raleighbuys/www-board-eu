@@ -6,6 +6,8 @@ tags: eu board
 
 ---
 
+<!-- rebuild 001 -->
+
 <h2>Board of Directors</h2>
 
 <section id="board" class="corporate">

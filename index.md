@@ -27,6 +27,13 @@ tags: eu board
 </div>
 </section>
 
+## EU Bylaws
+
+If in doubt, the Dutch Bylaws have precedence over the English translation of the Dutch bylaws.
+
+- [Dutch](/www-board-eu/attachments/Gepubliceerde_Statuten_OWASP_Europe_VZW.pdf)
+- [English translation](/www-board-eu/attachments/126741_OWASP_vzw_modelstatuten_v0.9_EN_REV.pdf)
+
 ## EU Entity Board Meetings
 
 - [May 2021](/www-board-eu/202105)
